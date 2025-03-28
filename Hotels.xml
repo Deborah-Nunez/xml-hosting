@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+	<Hotel Rating="5.0" NearstAiport="Sky Harbor">
+		<Name>Holiday Inn</Name>
+		<Phone>480-673-5432</Phone>
+		<Phone>620-673-5432</Phone>
+		<Address>
+			<Number>189</Number>
+			<Street>West Point Ave</Street>
+			<City>Glendale</City>
+			<State>Arizona</State>
+			<Zip>85123</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2" NearstAiport="Desert Springs">
+		<Name>Best Western</Name>
+		<Phone>620-628-7865</Phone>
+		<Address>
+			<Number>189</Number>
+			<Street>Greek Lane</Street>
+			<City>Mesa</City>
+			<State>Arizona</State>
+			<Zip>85207</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="1.3" NearstAiport="Mesa Gateway">
+		<Name>Centerpoint</Name>
+		<Phone>480-673-5432</Phone>
+		<Phone>620-673-5432</Phone>
+		<Address>
+			<Number>63</Number>
+			<Street>Merry Street</Street>
+			<City>Mesa</City>
+			<State>Arizona</State>
+			<Zip>85210<Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="5.0" NearstAiport="Sky View">
+		<Name>Hillside Hotel</Name>
+		<Phone>480-673-6000</Phone>
+		<Phone>620-973-8432</Phone>
+		<Phone>480-893-7701</Phone>
+		<Phone>620-653-1102</Phone>
+		<Address>
+			<Number>189</Number>
+			<Street>West Point Ave</Street>
+			<City>Glendale</City>
+			<State>Arizona</State>
+			<Zip>85123</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="5.0" NearstAiport="Sky Harbor">
+		<Name>Holiday Inn</Name>
+		<Phone>480-673-5432</Phone>
+		<Phone>620-673-5432</Phone>
+		<Address>
+			<Number>189</Number>
+			<Street>Country Ave</Street>
+			<City>Scottsdale</City>
+			<State>Arizona</State>
+			<Zip>85320</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.2" NearstAirport="Mesa Gateway">
+        <Name>Westin</Name>
+        <Phone>480-673-5432</Phone>
+        <Phone>602-888-2345</Phone>
+        <Address>
+            <Number>215</Number>
+            <Street>Maple St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85001</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="5.0" NearstAirport="Sky Harbor">
+        <Name>Marriott</Name>
+        <Phone>623-450-7890</Phone>
+        <Address>
+            <Number>189</Number>
+            <Street>West Point Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8" NearstAirport="Desert Springs">
+        <Name>Hilton</Name>
+        <Phone>310-555-5678</Phone>
+        <Phone>800-555-7890</Phone>
+        <Address>
+            <Number>45</Number>
+            <Street>Sunset Blvd</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90028</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5" NearstAirport="JFK Airport">
+        <Name>Psalm 34</Name>
+        <Phone>920-803-5002</Phone>
+        <Phone>212-555-1234</Phone>
+        <Address>
+            <Number>320</Number>
+            <Street>Ginger Way</Street>
+            <City>Glendale</City>
+            <State>AZ</State>
+            <Zip>85123</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.9" NearstAirport="LAX Airport">
+        <Name>Holiday Inn</Name>
+        <Phone>480-673-5432</Phone>
+        <Address>
+            <Number>145</Number>
+            <Street>Main St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10001</Zip>
+        </Address>
+    </Hotel>
+
+</Hotels>
+
