@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-	<Hotel Rating="5.0" NearstAiport="Sky Harbor">
+	<Hotel Rating="5.0">
 		<Name>Holiday Inn</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address>
+		<Address NearstAiport="Sky Harbor">
 			<Number>189</Number>
 			<Street>West Point Ave</Street>
 			<City>Glendale</City>
@@ -13,10 +13,10 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.2" NearstAiport="Desert Springs">
+	<Hotel Rating="4.2">
 		<Name>Best Western</Name>
 		<Phone>620-628-7865</Phone>
-		<Address>
+		<Address NearstAiport="Desert Springs">
 			<Number>189</Number>
 			<Street>Greek Lane</Street>
 			<City>Mesa</City>
@@ -25,11 +25,11 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="1.3" NearstAiport="Mesa Gateway">
+	<Hotel Rating="1.3">
 		<Name>Centerpoint</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address>
+		<Address NearstAiport="Mesa Gateway">
 			<Number>63</Number>
 			<Street>Merry Street</Street>
 			<City>Mesa</City>
@@ -38,13 +38,13 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="5.0" NearstAiport="Sky View">
+	<Hotel Rating="5.0">
 		<Name>Hillside Hotel</Name>
 		<Phone>480-673-6000</Phone>
 		<Phone>620-973-8432</Phone>
 		<Phone>480-893-7701</Phone>
 		<Phone>620-653-1102</Phone>
-		<Address>
+		<Address NearstAiport="Sky View">
 			<Number>189</Number>
 			<Street>West Point Ave</Street>
 			<City>Glendale</City>
@@ -53,11 +53,11 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="5.0" NearstAiport="Sky Harbor">
+	<Hotel Rating="5.0">
 		<Name>Holiday Inn</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address>
+		<Address NearstAiport="Sky Harbor">
 			<Number>189</Number>
 			<Street>Country Ave</Street>
 			<City>Scottsdale</City>
@@ -66,11 +66,11 @@
 		</Address>
 	</Hotel>
 	
-	<Hotel Rating="4.2" NearstAirport="Mesa Gateway">
+	<Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-673-5432</Phone>
         <Phone>602-888-2345</Phone>
-        <Address>
+        <Address NearstAirport="Mesa Gateway">
             <Number>215</Number>
             <Street>Maple St</Street>
             <City>Phoenix</City>
@@ -79,10 +79,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="5.0" NearstAirport="Sky Harbor">
+    <Hotel Rating="5.0">
         <Name>Marriott</Name>
         <Phone>623-450-7890</Phone>
-        <Address>
+        <Address NearstAirport="Sky Harbor">
             <Number>189</Number>
             <Street>West Point Ave</Street>
             <City>Tempe</City>
@@ -91,11 +91,11 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="3.8" NearstAirport="Desert Springs">
+    <Hotel Rating="3.8">
         <Name>Hilton</Name>
         <Phone>310-555-5678</Phone>
         <Phone>800-555-7890</Phone>
-        <Address>
+        <Address NearstAirport="Desert Springs">
             <Number>45</Number>
             <Street>Sunset Blvd</Street>
             <City>Los Angeles</City>
@@ -104,11 +104,11 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.5" NearstAirport="JFK Airport">
+    <Hotel Rating="4.5">
         <Name>Psalm 34</Name>
         <Phone>920-803-5002</Phone>
         <Phone>212-555-1234</Phone>
-        <Address>
+        <Address NearstAirport="JFK Airport">
             <Number>320</Number>
             <Street>Ginger Way</Street>
             <City>Glendale</City>
@@ -117,10 +117,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.9" NearstAirport="LAX Airport">
+    <Hotel Rating="4.9">
         <Name>Holiday Inn</Name>
         <Phone>480-673-5432</Phone>
-        <Address>
+        <Address NearstAirport="LAX Airport">
             <Number>145</Number>
             <Street>Main St</Street>
             <City>New York</City>
