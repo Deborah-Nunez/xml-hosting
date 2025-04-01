@@ -4,7 +4,7 @@
 		<Name>Holiday Inn</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address NearstAiport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>189</Number>
 			<Street>West Point Ave</Street>
 			<City>Glendale</City>
@@ -16,7 +16,7 @@
 	<Hotel Rating="4.2">
 		<Name>Best Western</Name>
 		<Phone>620-628-7865</Phone>
-		<Address NearstAiport="Desert Springs">
+		<Address NearstAirport="Desert Springs">
 			<Number>189</Number>
 			<Street>Greek Lane</Street>
 			<City>Mesa</City>
@@ -29,7 +29,7 @@
 		<Name>Centerpoint</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address NearstAiport="Mesa Gateway">
+		<Address NearstAirport="Mesa Gateway">
 			<Number>63</Number>
 			<Street>Merry Street</Street>
 			<City>Mesa</City>
@@ -44,7 +44,7 @@
 		<Phone>620-973-8432</Phone>
 		<Phone>480-893-7701</Phone>
 		<Phone>620-653-1102</Phone>
-		<Address NearstAiport="Sky View">
+		<Address NearstAirport="Sky View">
 			<Number>189</Number>
 			<Street>West Point Ave</Street>
 			<City>Glendale</City>
@@ -57,7 +57,7 @@
 		<Name>Holiday Inn</Name>
 		<Phone>480-673-5432</Phone>
 		<Phone>620-673-5432</Phone>
-		<Address NearstAiport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>189</Number>
 			<Street>Country Ave</Street>
 			<City>Scottsdale</City>
